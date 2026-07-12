@@ -224,7 +224,7 @@ section{
     justify-content:space-between;
     align-items:center;
     margin-bottom:25px;
-    /* gap: 5px; */
+   
 }
 
 .footer-logo{
@@ -239,7 +239,7 @@ section{
 
 .social-icons{
     display:flex;
-    gap:20px;
+    gap:21px;
 }
 
 .social-icons a{
